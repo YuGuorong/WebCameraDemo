@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/yuguorong/AndroidStudioProjects/BlogSample/PermissionRequest/Application/build/intermediates/res/merged/debug/layout/fragment_permission_request.xml",
+        "source": "/home/yuguorong/AndroidStudioProjects/BlogSample/PermissionRequest/Application/src/main/res/layout/fragment_permission_request.xml"
+    },
+    {
+        "merged": "/home/yuguorong/AndroidStudioProjects/BlogSample/PermissionRequest/Application/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/yuguorong/AndroidStudioProjects/BlogSample/PermissionRequest/Application/src/main/res/layout/activity_main.xml"
+    }
+]
